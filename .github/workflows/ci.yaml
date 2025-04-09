@@ -25,4 +25,5 @@ jobs:
 
       - name: Run unit tests
         run: |
-          python -m unittest _test
+          python -m unittest test_sq
+          
